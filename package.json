@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "apitest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandhuRaveendran/BACKEND.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandhuRaveendran/BACKEND/issues"
+  },
+  "homepage": "https://github.com/anandhuRaveendran/BACKEND#readme",
+  "description": ""
+}
